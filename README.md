@@ -1,6 +1,6 @@
 # Breakfast-Shop
-<h5>Breakfast Shopping is a first assignment project when I learn Project Java Website Application at a school.
-In Project I was used a MVC2 Structure and have some function in project are:</h5>
+<h4>Breakfast Shopping is a first assignment project when I learn Project Java Website Application at a school.
+In Project I was used a MVC2 Structure and have some function in project are:</h4>
 <ol>      
 <li>Login via Google.</li>
 <li>RecapchaV2.</li>
